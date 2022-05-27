@@ -34,3 +34,7 @@
 #### On the properties tab of your S3 bucket, scroll down to the " Static website hosting" section. Click on "Edit" button and Enable "static website hosting".Now provide the default home page and error page of your website by entering "index.html" inside both "Index document" and "Error document" fields and click on the "Save" button.
 
 ![Edit_Static_Web_Hosting5](https://user-images.githubusercontent.com/97234029/170703643-72069c92-fd4a-46c0-887c-782cefd73f3e.jpg)
+### You should now see your website endpoint. Copy the link to your clipboard.
+
+![Edited6](https://user-images.githubusercontent.com/97234029/170705521-360bcffc-ea5e-495f-a8f7-2bd03705ef9c.jpg)
+
