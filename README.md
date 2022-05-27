@@ -15,4 +15,4 @@
 
 ![Bucket1](https://user-images.githubusercontent.com/97234029/170700330-d472d03d-1d23-4ae3-ac3c-4b0f26aa1a2b.jpg)
 
-
+## 2. Click on "Add files" to upload files and "Add folder" to upload folder.
