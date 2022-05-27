@@ -47,3 +47,5 @@
 
 ![Cloud8](https://user-images.githubusercontent.com/97234029/170708289-f96471cc-3c73-4d88-8a7e-242febd0cb99.jpg)
 
+## 7. Access your website.
+#### Copy your CloudFront's Domain Name and paste it in your preferred web browser. The content of your webpage should now display.  
