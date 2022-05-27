@@ -26,12 +26,12 @@
 ![uploaded3](https://user-images.githubusercontent.com/97234029/170701813-9e385928-edde-4252-9608-6ca8b82cfce3.jpg)
 
 ## 4. Secure your S3 bucket via IAM. 
-#### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Edit Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
+##### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Edit Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
 
 ![Bucket_policy4](https://user-images.githubusercontent.com/97234029/170702478-2eb8e678-ae86-4119-bc83-c47e5f31f851.jpg)
 
 ## 5. Add Configuration to your S3 bucket.
-#### On the properties tab of your S3 bucket, scroll down to the " Static website hosting" section. Click on "Edit" button and Enable "static website hosting".Now provide the default home page and error page of your website by entering "index.html" inside both "Index document" and "Error document" fields and click on the "Save" button.
+##### On the properties tab of your S3 bucket, scroll down to the " Static website hosting" section. Click on "Edit" button and Enable "static website hosting".Now provide the default home page and error page of your website by entering "index.html" inside both "Index document" and "Error document" fields and click on the "Save" button.
 
 ![Edit_Static_Web_Hosting5](https://user-images.githubusercontent.com/97234029/170703643-72069c92-fd4a-46c0-887c-782cefd73f3e.jpg)
 ### You should now see your website endpoint. Copy the link to your clipboard.
@@ -39,16 +39,16 @@
 ![Edited6](https://user-images.githubusercontent.com/97234029/170705521-360bcffc-ea5e-495f-a8f7-2bd03705ef9c.jpg)
 
 ## 6. Use CloudFront to distribute your website.
-#### On your AWS console, search for the "CloudFront" service and click on "Create Distribution" button. Inside the "origin domain" field, paste your website endpiont URL. Leave the other fields as default and click on "Create Distribution". Wait for a few minutes for your CloudFront Distribution to get created.
+##### On your AWS console, search for the "CloudFront" service and click on "Create Distribution" button. Inside the "origin domain" field, paste your website endpiont URL. Leave the other fields as default and click on "Create Distribution". Wait for a few minutes for your CloudFront Distribution to get created.
 
 ![CloudFront7](https://user-images.githubusercontent.com/97234029/170706500-4d359c98-ac91-4350-be80-2e6bada0f4f6.png)
 
-#### After creation of your CloudFront, you'll see the Domain Name. Yours will be different.
+##### After creation of your CloudFront, you'll see the Domain Name. Yours will be different.
 
 ![Cloud8](https://user-images.githubusercontent.com/97234029/170708289-f96471cc-3c73-4d88-8a7e-242febd0cb99.jpg)
 
 ## 7. Access your website.
-#### Copy your CloudFront's Domain Name and paste it in your preferred web browser. The content of your webpage should now display.  
+##### Copy your CloudFront's Domain Name and paste it in your preferred web browser. The content of your webpage should now display.  
 
 ![Prosper-s-Travel-Blog](https://user-images.githubusercontent.com/97234029/170709580-9b47b85b-fa4e-49c9-b3a5-6eef3348d11e.png)
 
