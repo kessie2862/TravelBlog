@@ -52,3 +52,4 @@
 
 ![Prosper-s-Travel-Blog](https://user-images.githubusercontent.com/97234029/170709580-9b47b85b-fa4e-49c9-b3a5-6eef3348d11e.png)
 
+## 8. You can view the website using the [CloudFront Endpoint URL](https://d3fy7ty9dx2uaf.cloudfront.net/) 
