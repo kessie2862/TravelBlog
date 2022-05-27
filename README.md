@@ -49,3 +49,6 @@
 
 ## 7. Access your website.
 #### Copy your CloudFront's Domain Name and paste it in your preferred web browser. The content of your webpage should now display.  
+
+![Prosper-s-Travel-Blog](https://user-images.githubusercontent.com/97234029/170709580-9b47b85b-fa4e-49c9-b3a5-6eef3348d11e.png)
+
