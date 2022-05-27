@@ -13,3 +13,6 @@
 
 ## 1. Create an AWS S3 Bucket and allow public access
 
+![Bucket1](https://user-images.githubusercontent.com/97234029/170700330-d472d03d-1d23-4ae3-ac3c-4b0f26aa1a2b.jpg)
+
+
