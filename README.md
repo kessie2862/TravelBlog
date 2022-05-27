@@ -20,7 +20,7 @@
 ![upload_files2](https://user-images.githubusercontent.com/97234029/170701007-3a61b069-2f43-4d91-a594-ec52adecea94.jpg)
 #### If you have your project files/folders inside a folder on your computer, don't upload that folder. Instead, upload it's content onr by one.
 
-3. After a successful upload you will see your files and folders with the name of your S3 Bucket at the top.
+## 3. After a successful upload you will see your files and folders with the name of your S3 Bucket at the top.
 
 ![uploaded3](https://user-images.githubusercontent.com/97234029/170701813-9e385928-edde-4252-9608-6ca8b82cfce3.jpg)
 
