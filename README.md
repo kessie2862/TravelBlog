@@ -38,3 +38,7 @@
 
 ![Edited6](https://user-images.githubusercontent.com/97234029/170705521-360bcffc-ea5e-495f-a8f7-2bd03705ef9c.jpg)
 
+## 6. Use CloudFront to distribute your website.
+#### On your AWS console, search for the "CloudFront" service and click on "Create Distribution" button. Inside the "origin domain" field, paste your website endpiont URL. Leave the other fields as default and click on "Create Distribution". Wait for a few minutes for your CloudFront Distribution to get created.
+
+![CloudFront7](https://user-images.githubusercontent.com/97234029/170706500-4d359c98-ac91-4350-be80-2e6bada0f4f6.png)
