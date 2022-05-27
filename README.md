@@ -1,2 +1,3 @@
-# TravelBlog(Deploy Static Website to AWS)
-A static Travel Blog website.
+# Prosper's Blog (A Static Travel Blog Website)
+##(Deploy Static Website to AWS)
+
