@@ -29,3 +29,8 @@
 #### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Edit Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
 
 ![Bucket_policy4](https://user-images.githubusercontent.com/97234029/170702478-2eb8e678-ae86-4119-bc83-c47e5f31f851.jpg)
+
+## 5. Add Configuration to your S3 bucket.
+#### On the properties tab of your S3 bucket, scroll down to the " Static website hosting" section. Click on "Edit" button and Enable "static website hosting".Now provide the default home page and error page of your website by entering "index.html" inside both "Index document" and "Error document" fields and click on the "Save" button.
+
+![Edit_Static_Web_Hosting5](https://user-images.githubusercontent.com/97234029/170703643-72069c92-fd4a-46c0-887c-782cefd73f3e.jpg)
