@@ -42,3 +42,8 @@
 #### On your AWS console, search for the "CloudFront" service and click on "Create Distribution" button. Inside the "origin domain" field, paste your website endpiont URL. Leave the other fields as default and click on "Create Distribution". Wait for a few minutes for your CloudFront Distribution to get created.
 
 ![CloudFront7](https://user-images.githubusercontent.com/97234029/170706500-4d359c98-ac91-4350-be80-2e6bada0f4f6.png)
+
+#### After creation of your CloudFront, you'll see the Domain Name. Yours will be different.
+
+![Cloud8](https://user-images.githubusercontent.com/97234029/170708289-f96471cc-3c73-4d88-8a7e-242febd0cb99.jpg)
+
