@@ -9,6 +9,7 @@
 #### /img - The background image file for the website.
 #### /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 #### /css - CSS files for the website.
+##
 
 ## 1. Create an AWS S3 Bucket and allow public access
 
