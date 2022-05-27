@@ -15,7 +15,7 @@
 
 ![Bucket1](https://user-images.githubusercontent.com/97234029/170700330-d472d03d-1d23-4ae3-ac3c-4b0f26aa1a2b.jpg)
 
-## 2. Click on "Add files" to upload files and "Add folder" to upload folder.
+## 2. Click on `Add files` to upload files and `Add folder` to upload folder.
 
 ![upload_files2](https://user-images.githubusercontent.com/97234029/170701007-3a61b069-2f43-4d91-a594-ec52adecea94.jpg)
 #### If you have your project files/folders inside a folder on your computer, don't upload that folder. Instead, upload it's content one by one.
@@ -26,12 +26,12 @@
 ![uploaded3](https://user-images.githubusercontent.com/97234029/170701813-9e385928-edde-4252-9608-6ca8b82cfce3.jpg)
 
 ## 4. Secure your S3 bucket via IAM. 
-#### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Edit Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
+#### Click on the `Permissions` tab on your S3 bucket and scroll down to the `Edit Bucket Policy` section and enter the following policy replacing `myblogproject` with the name of your project.
 
 ![Bucket_policy4](https://user-images.githubusercontent.com/97234029/170702478-2eb8e678-ae86-4119-bc83-c47e5f31f851.jpg)
 
 ## 5. Add Configuration to your S3 bucket.
-#### On the properties tab of your S3 bucket, scroll down to the " Static website hosting" section. Click on "Edit" button and Enable "static website hosting".Now provide the default home page and error page of your website by entering "index.html" inside both "Index document" and "Error document" fields and click on the "Save" button.
+#### On the properties tab of your S3 bucket, scroll down to the `Static website hosting` section. Click on `Edit` button and Enable `static website hosting`. Now provide the default home page and error page of your website by entering `index.html` inside both `Index document` and `Error document` fields and click on the `Save` button.
 
 ![Edit_Static_Web_Hosting5](https://user-images.githubusercontent.com/97234029/170703643-72069c92-fd4a-46c0-887c-782cefd73f3e.jpg)
 ### You should now see your website endpoint. Copy the link to your clipboard.
@@ -39,7 +39,7 @@
 ![Edited6](https://user-images.githubusercontent.com/97234029/170705521-360bcffc-ea5e-495f-a8f7-2bd03705ef9c.jpg)
 
 ## 6. Use CloudFront to distribute your website.
-#### On your AWS console, search for the "CloudFront" service and click on "Create Distribution" button. Inside the "origin domain" field, paste your website endpiont URL. Leave the other fields as default and click on "Create Distribution". Wait for a few minutes for your CloudFront Distribution to get created.
+#### On your AWS console, search for the `CloudFront` service and click on `Create Distribution` button. Inside the `origin domain` field, paste your website endpiont URL. Leave the other fields as default and click on `Create Distribution`. Wait for a few minutes for your CloudFront Distribution to get created.
 
 ![CloudFront7](https://user-images.githubusercontent.com/97234029/170706500-4d359c98-ac91-4350-be80-2e6bada0f4f6.png)
 
