@@ -26,6 +26,6 @@
 ![uploaded3](https://user-images.githubusercontent.com/97234029/170701813-9e385928-edde-4252-9608-6ca8b82cfce3.jpg)
 
 ## 4. Secure your S3 bucket via IAM. 
-#### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
+#### Click on the "Permissions" tab on your S3 bucket and scroll down to the "Edit Bucket Policy" section and enter the following policy replacing "myblogproject" with the name of your project.
 
 ![Bucket_policy4](https://user-images.githubusercontent.com/97234029/170702478-2eb8e678-ae86-4119-bc83-c47e5f31f851.jpg)
