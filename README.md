@@ -11,7 +11,7 @@
 #### /css - CSS files for the website.
 ##
 
-## 1. On your AWS console, Create an `AWS S3 Bucket` and allow public access.
+## 1. On your AWS console, create an `AWS S3 Bucket` and allow public access.
 
 ![Bucket1](https://user-images.githubusercontent.com/97234029/170700330-d472d03d-1d23-4ae3-ac3c-4b0f26aa1a2b.jpg)
 
@@ -21,7 +21,7 @@
 #### If you have your project files/folders inside a folder on your computer, don't upload that folder. Instead, upload it's content one by one.
 ##
 
-## 3. After a successful upload you will see your files and folders with the name of your S3 Bucket at the top.
+## 3. After a successful upload, you will see your files and folders with the name of your S3 Bucket at the top.
 
 ![uploaded3](https://user-images.githubusercontent.com/97234029/170701813-9e385928-edde-4252-9608-6ca8b82cfce3.jpg)
 
